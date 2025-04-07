@@ -1,3 +1,5 @@
+Angular, spring, MySQL
+
 1	Pocetna stranica: 
 ![image](https://github.com/user-attachments/assets/8a56e122-a1d6-4c30-ab25-ff7ae7ec514a)
 2	O kompaniji:  
